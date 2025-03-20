@@ -1,4 +1,3 @@
-# PowerBI
 # Adventure Works - Customer Retention & Acquisition Analysis
 
 ## Project Overview
